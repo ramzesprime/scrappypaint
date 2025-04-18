@@ -1,2 +1,2 @@
 # scrappypaint
-<img src -  "test1.png">
+![Скриншот](test1.png)
